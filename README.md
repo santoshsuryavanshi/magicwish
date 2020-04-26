@@ -1,0 +1,2 @@
+# magicwish
+magicwish.fun
